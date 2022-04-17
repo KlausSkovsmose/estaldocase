@@ -1,0 +1,9 @@
+#address-info {
+  font-size: 18px;
+  padding-left: 10px;
+  border: 1px solid #e6e6e6;
+  border-radius: 5px;
+  display: flex;
+  justify-content: start;
+  width: 100%;
+}

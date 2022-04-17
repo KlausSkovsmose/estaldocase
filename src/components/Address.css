@@ -1,0 +1,16 @@
+.address-item {
+    min-height: 35px;
+    border: 1px solid #e6e6e6;
+    display: flex;
+    padding-left: 10px;
+    align-items: center;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  
+  .address-item:hover {
+    background-color: #421b4b;
+    color: white;
+    cursor: pointer;
+  }

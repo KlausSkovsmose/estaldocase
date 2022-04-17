@@ -1,0 +1,27 @@
+.pagination {
+  width: 100%;
+  display: grid;
+  justify-content: center;
+  list-style: none;
+  grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
+}
+
+.page-item {
+  max-height: 30px;
+  width: 25px;
+  border: 1px solid #e6e6e6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2px;
+  border-radius: 5px;
+  text-decoration: none;
+  color: black;
+}
+
+.page-item:hover {
+  color: white;
+  background-color: #421b4b;
+  cursor: pointer;
+}
+

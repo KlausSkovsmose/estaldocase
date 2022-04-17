@@ -1,0 +1,14 @@
+.addresses-on-same-road-item {
+  min-height: 35px;
+  border: 1px solid #e6e6e6;
+  display: flex;
+  padding-left: 10px;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.addresses-on-same-road-item:hover {
+  background-color: #421b4b;
+  color: white;
+  cursor: pointer;
+}
